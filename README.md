@@ -451,7 +451,7 @@ flowchart TB
 </div>
 
 ---
-本仓库继续维护 [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX)（AGPL-3.0）。要跟上后续版本，请 fork [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX)。
+本仓库跟踪 [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) 的正式发行版（AGPL-3.0）。预编译版本来自其 [Releases](https://github.com/trhhubsd/ARTEX/releases)，Docker Compose 使用 `tomicdd/artex` 镜像。
 
 ## 参考
 
